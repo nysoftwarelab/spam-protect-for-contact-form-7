@@ -1,8 +1,6 @@
-# Spam Protect for Contact Form 7
+# Wordpress : Spam Protect for Contact Form 7
 
 Version 1.0.0.1
-
-Wordpress - Spam Protect for Contact Form 7
 
 A widget that helps you to block annoying spams coming from you Contact Form 7 Widget.
 Fully compatible with wordpress up to version 5.3
