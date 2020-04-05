@@ -1,4 +1,4 @@
-# spam-protect-for-contact-form-7
+# Spam Protect for Contact Form 7
 
 Version 1.0.0.1
 
