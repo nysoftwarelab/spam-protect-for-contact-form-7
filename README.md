@@ -1,3 +1,5 @@
+# spam-protect-for-contact-form-7
+
 Version 1.0.0.1
 
 Wordpress - Spam Protect for Contact Form 7
@@ -18,3 +20,4 @@ A big variety of features helps you to block almost every bot.
 - Log the failed messages so you can adjust and troubleshoot false positive blocks.
 
 - Super easy and effective, tested in web sites with over 5.000 visits per day.
+
