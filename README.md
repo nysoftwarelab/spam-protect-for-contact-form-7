@@ -1,5 +1,6 @@
 # Wordpress : Spam Protect for Contact Form 7
 
+
 Version 1.0.0.1
 
 Spam Protect for Contact Form 7 is an awesome and easy-to-use plugin to block all those spammers (or bots) who fill out forms on your website. 
